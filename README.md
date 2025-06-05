@@ -1,6 +1,6 @@
 # Site do Parceiro iGreen Energy
-
-Este é um site de cartão pessoal para afiliados da iGreen Energy, explicando como funciona o serviço de economia na conta de luz e direcionando visitantes para contato via WhatsApp.
+<a href="https://otaviomalta.github.io/igreen-afiliado/">Este é um site</a>
+ de cartão pessoal para afiliados da iGreen Energy, explicando como funciona o serviço de economia na conta de luz e direcionando visitantes para contato via WhatsApp.
 
 ## Conteúdo do Site
 
