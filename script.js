@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 submitButton.disabled = false;
                 
                 // Redirecionar para WhatsApp após envio
-                window.location.href = 'https://wa.me/5516999493399?text=Olá!%20Vi%20o%20site%20da%20iGreen%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20desconto%20na%20conta%20de%20luz.';
+                window.location.href = 'https://wa.me/5599999999999?text=Olá!%20Vi%20o%20site%20da%20iGreen%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20desconto%20na%20conta%20de%20luz.';
             }, 1500);
         });
     }
